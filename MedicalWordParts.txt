@@ -1,0 +1,652 @@
+----------------
+Medical Prefixes
+----------------
+a- without
+ab- away from
+ad- toward
+allo- other, different from usual
+an- without
+ante- before, in front of
+anti- against
+auto- self
+bi- two
+brady- slow
+circum- around
+contra- against
+de- without
+di- two
+dis- apart
+dys- painful; difficult; abnormal
+e- outward
+en- inward
+endo- within; inner
+epi- above
+eso- inward
+eu- normal
+ex- outward
+exo- outward
+extra- outside of
+hemi- half
+hetero- different
+homo- same
+hyper- excessive
+hypo- below; insufficient
+in- not; inward
+inter- between
+intra- within
+macro- large
+meta- beyond
+micro- small
+mono- one
+multi- many
+myo- to shut
+neo- new
+non- not
+nulli- none
+pan- all
+para- beside; abnormal; two like parts of a pair
+per- through
+peri- around
+poly- many
+post- after
+pre- before
+primi- first
+pro- before
+pseudo- false
+quadri- four
+re- again
+retro- backward; behind
+semi- partial
+sub- under
+tachy- fast
+tetra- four
+trans- across
+tri- three
+ultra- beyond
+un- not
+xeno- foreign
+---------------
+Combining Forms
+---------------
+abdomin/o abdomen
+acous/o hearing
+acr/o extremities
+aden/o gland
+adenoid/o adenoids
+adip/o fat
+adren/o adrenal glands
+adrenal/o adrenal glands
+aer/o air
+agglutin/o clumping
+albin/o white
+alges/o pain, sense of pain
+alveol/o alveolus
+ambly/o dull, dim
+amnes/o forgetfulness
+amni/o amnion
+an/o anus
+andr/o male
+angi/o vessel
+ankyl/o stiff joint
+anter/o front
+anthrac/o coal
+anxi/o fear, worry
+aort/o aorta
+append/o appendix
+appendic/o appendix
+aque/o water
+arteri/o artery
+arthr/o joint
+articul/o joint
+aspir/o to breathe in
+astr/o star
+atel/o incomplete
+ather/o fatty substance
+atri/o atrium
+audi/o hearing
+audit/o hearing
+aur/o ear
+auricul/o ear
+axill/o axilla, underarm
+azot/o nitrogenous waste
+bacteri/o bacteria
+balan/o glans penis
+bar/o weight
+bas/o base
+bi/o life
+blast/o immature
+blephar/o eyelid
+brachi/o arm
+bronch/o, bronchi/o = bronchus
+bronchiol/o bronchiole
+bucc/o cheek
+burs/o sac, bursa
+calc/o calcium
+capsul/o to box
+carcin/o cancer
+cardi/o heart
+carp/o carpus
+caud/o tail
+cauter/o to burn
+cec/o cecum
+centr/o center
+cephal/o head
+cerebell/o cerebellum
+cerebr/o cerebrum
+cerumin/o cerumen
+cervic/o neck, cervix
+chem/o chemical, drug
+chol/e bile, gall
+cholangi/o bile duct
+cholecyst/o gallbladder
+choledoch/o common bile duct
+chondr/o cartilage
+chori/o chorion
+chrom/o, chromat/o = color
+cirrh/o yellow
+cis/o to cut
+clavicul/o clavicle
+cleid/o clavicle
+clon/o rapid contracting and relaxing
+coagul/o clotting
+coccyg/o coccyx
+cochle/o cochlea
+col/o, colon/o = colon
+colp/o vagina
+compuls/o drive, compel
+concuss/o to shake violently
+coni/o dust
+conjunctiv/o conjunctiva
+core/o pupil
+corne/o cornea
+coron/o heart
+corpor/o body
+cortic/o outer layer
+cost/o rib
+crani/o skull
+crin/o to secrete
+crur/o leg
+cry/o cold
+crypt/o hidden
+culd/o cul-de-sac
+cutane/o skin
+cyan/o blue
+cycl/o ciliary body
+cyst/o sac, urinary bladder, pouch
+cyt/o cell
+dacry/o tears
+delus/o false belief
+dent/o tooth
+depress/o to press down
+derm/o skin
+dermat/o skin
+diaphor/o profuse sweating
+diaphragmat/o diaphragm
+dilat/o to widen
+dipl/o double
+dist/o away from
+diverticul/o pouch
+dors/o back
+duct/o to bring
+duoden/o duodenum
+dur/o dura mater
+electr/o electricity
+embol/o plug
+embry/o embryo
+emmetr/o correct, proper
+encephal/o brain
+enter/o small intestine
+eosin/o rosy red
+epididym/o epididymis
+epiglott/o epiglottis
+episi/o vulva
+epitheli/o epithelium
+erg/o work
+erythr/o red
+esophag/o esophagus
+esthesi/o sensation, feeling
+estr/o female
+extens/o to stretch out
+fasci/o fibrous band
+femor/o femur
+fet/o fetus
+fibr/o fibers
+fibrin/o fibers
+fibul/o fibula
+flex/o to bend
+fluor/o fluorescence, luminous
+fus/o pouring
+gastr/o stomach
+genit/o genital
+gingiv/o gums
+glauc/o gray
+gli/o glue
+glomerul/o glomerulus
+gloss/o tongue
+gluc/o glucose
+glute/o buttock
+glyc/o sugar
+glycos/o sugar, glucose
+gonad/o sex glands
+granul/o granules
+gynec/o woman, female
+habilitat/o ability
+hal/o to breathe
+hallucin/o imagined perception
+hem/o blood
+hemat/o blood
+hepat/o liver
+hidr/o sweat
+hist/o tissue
+home/o sameness
+humer/o humerus
+hydr/o water
+hymen/o hymen
+hyster/o uterus
+iatr/o physician, medicine, treatment
+ichthy/o scaly, dry
+idi/o distinctive
+ile/o ileum
+ili/o ilium
+immun/o immunity, protection
+infer/o below
+inguin/o groin region
+iod/o iodine
+ir/o iris
+irid/o iris
+isch/o to hold back
+ischi/o ischium
+jejun/o jejunum
+kal/i potassium
+kerat/o hard, horny, cornea
+ket/o, keton/o = ketones
+kinesi/o movement
+klept/o to steal
+kyph/o hump
+labi/o lip
+labyrinth/o labyrinth (inner ear)
+lacrim/o tears
+lact/o milk
+lamin/o lamina (part of vertebra)
+lapar/o abdomen
+laps/o to slide back
+laryng/o larynx
+later/o side
+leuk/o white
+lingu/o tongue
+lip/o fat
+lith/o stone
+lob/o lobe
+lord/o bent backward
+lumb/o loin (low back between ribs and pelvis)
+lymph/o lymph
+lymphaden/o lymph node
+lymphangi/o lymph vessel
+macul/o macula lutea
+mamm/o breast
+mandibul/o mandible
+mast/o breast
+maxill/o maxilla
+meat/o meatus
+medi/o middle
+medull/o inner region, medulla oblongata
+melan/o black
+men/o menses, menstruation
+mening/o, meningi/o = meninges
+ment/o mind
+metacarp/o metacarpus
+metatars/o metatarsus
+metr/o uterus
+mi/o lessening
+mineral/o minerals, electrolytes
+miss/o to send back
+morbid/o ill
+morph/o shape
+mort/o death
+muc/o mucus
+muscul/o muscle
+mutat/o to change
+my/o muscle
+myc/o fungus
+mydr/i widening
+myel/o bone marrow, spinal cord
+myocardi/o heart muscle
+myos/o muscle
+myring/o tympanic membrane
+narc/o stupor, sleep
+nas/o nose
+nat/o birth
+natr/o sodium
+necr/o death
+nephr/o kidney
+neur/o nerve
+neutr/o neutral
+noct/i night
+nucle/o nucleus
+nyctal/o night
+o/o egg
+obsess/o besieged by thoughts
+ocul/o eye
+odont/o tooth
+olig/o scanty
+onc/o tumor
+onych/o nail
+oophor/o ovary
+ophthalm/o eye
+opt/o, optic/o = eye, vision
+or/o mouth
+orch/o, orchi/o, orchid/o = testes
+orth/o straight, upright, correct
+oste/o bone
+ot/o ear
+ov/o, ov/i = ovum
+ovari/o ovary
+ox/o, ox/i = oxygen
+palat/o palate
+pancreat/o pancreas
+papill/o optic disk
+parathyroid/o parathyroid gland
+pariet/o cavity wall
+patell/o patella
+path/o disease
+pector/o chest
+ped/o child; foot
+pedicul/o lice
+pelv/o pelvis
+pen/o penis
+perine/o perineum
+peripher/o away from center
+peritone/o peritoneum
+phac/o lens
+phag/o eat, swallow
+phalang/o phalanges
+pharmac/o drug
+pharyng/o pharynx
+phleb/o vein
+phob/o irrational fear
+phon/o sound
+phot/o light
+phren/o mind
+physic/o body
+pineal/o pineal gland
+pituitar/o pituitary gland
+plant/o sole of foot
+pleur/o pleura
+pneum/o lung, air
+pneumon/o lung, air
+pod/o foot
+poli/o gray matter
+polyp/o polyp
+pont/o pons
+poster/o back
+presby/o old age
+proct/o rectum and anus
+prostat/o prostate gland
+prosthet/o addition
+protein/o protein
+proxim/o near to
+psych/o mind
+pub/o genital region, pubis
+pulmon/o lung
+pupill/o pupil
+py/o pus
+pyel/o renal pelvis
+pylor/o pylorus
+pyr/o fire
+radi/o radius; ray (X-ray), radiation
+radic/o root
+radicul/o nerve root
+rect/o rectum
+recumb/o to lie back
+ren/o kidney
+retin/o retina
+rhin/o nose
+rhytid/o wrinkle
+roentgen/o X-ray
+rotat/o to revolve
+sacr/o sacrum
+salping/o uterine (fallopian) tubes, auditory tube (eustachian tube)
+sanguin/o blood
+sarc/o flesh
+scapul/o scapula
+schiz/o split
+scler/o hard, sclera
+scoli/o crooked
+seb/o oil
+sect/o to cut
+sept/o wall
+septic/o infection
+sialaden/o salivary gland
+sigmoid/o sigmoid colon
+sinus/o sinus
+soci/o society
+somat/o body
+somn/o sleep
+son/o sound
+specul/o to look at
+spermat/o sperm
+sphygm/o pulse
+spin/o spine
+spir/o breathing
+splen/o spleen
+spondyl/o vertebrae
+staped/o stapes
+stern/o sternum
+steth/o chest
+stigmat/o point
+super/o above
+synov/o, synovi/o = synovial membrane
+system/o system
+tars/o tarsus
+ten/o, tend/o, tendin/o = tendon
+tenacul/o to hold
+testicul/o testicle
+thalam/o thalamus
+thec/o sheath (meninges)
+theli/o nipple
+therm/o heat
+thorac/o chest
+thromb/o clot
+thym/o thymus gland
+thyr/o thyroid gland
+thyroid/o thyroid gland
+tibi/o tibia
+tom/o to cut
+ton/o tone
+tonsill/o tonsils
+topic/o a specific area
+tox/o, toxic/o = poison
+trache/o trachea
+trich/o hair
+tuss/o cough
+tympan/o tympanic membrane
+uln/o ulna
+ungu/o nail
+ur/o urine
+ureter/o ureter
+urethr/o urethra
+urin/o urine
+uter/o uterus
+uve/o choroid
+vagin/o vagina
+valv/o valve
+valvul/o valve
+varic/o dilated vein
+vas/o vessel, vas deferens
+vascul/o blood vessel
+ven/o vein
+ventr/o belly
+ventricul/o ventricle
+vers/o to turn
+vertebr/o vertebra
+vesic/o sac, bladder
+vesicul/o seminal vesicle
+vestibul/o vestibule
+viscer/o internal organ
+vitre/o glassy
+vulv/o vulva
+xer/o dry
+----------------
+Medical Suffixes
+----------------
+-ac pertaining to
+-al pertaining to
+-algia pain
+-an pertaining to
+-apheresis removal, carry away
+-ar pertaining to
+-arche beginning
+-ary pertaining to
+-asthenia weakness
+-atic pertaining to
+-blast immature
+-capnia carbon dioxide
+-cardia heart condition
+-cele protrusion
+-centesis puncture to withdraw fluid
+-cide to kill
+-clasia to surgically break
+-crit separation of
+-cusis hearing
+-cyesis state of pregnancy
+-cyte cell
+-cytic pertaining to cells
+-cytosis more than the normal number of cells
+-derma skin condition
+-desis to fuse
+-dipsia thirst
+-dynia pain
+-eal pertaining to
+-ectasis dilation
+-ectomy surgical removal
+-edema swelling
+-emesis vomit
+-emetic pertaining to vomiting
+-emia blood condition
+-emic pertaining to a blood condition
+-gen that which produces
+-genesis produces
+-genic producing
+-globin protein
+-globulin protein
+-gram record or picture
+-graphy process of recording
+-gravida pregnancy
+-ia state, condition
+-iac pertaining to
+-iasis abnormal condition
+-iatric pertaining to medical treatment
+-iatrist physician
+-iatry medical treatment
+-ic pertaining to
+-ical pertaining to
+-ician specialist
+-ile pertaining to
+-ine pertaining to
+-ion action
+-ior pertaining to
+-ism state of
+-ist specialist
+-istry specialty of
+-itis inflammation
+-kinesia movement
+-lepsy seizure
+-listhesis slipping
+-lith stone
+-lithiasis condition of stones
+-logic pertaining to study of
+-logist one who studies
+-logy study of
+-lucent to shine through
+-lysis to destroy (to break down)
+-lytic destruction
+-malacia abnormal softening
+-mania frenzy
+-manometer instrument to measure pressure
+-megaly enlarged
+-meter instrument for measuring
+-metrist specialist in measuring
+-metry process of measuring
+-nic pertaining to
+-nomics pertaining to laws
+-oid resembling
+-ole small
+-oma tumor, mass
+-opaque nontransparent
+-opia vision condition
+-opsia vision condition
+-opsy view of
+-orexia appetite
+-ory pertaining to
+-ose pertaining to
+-osis abnormal condition
+-osmia smell
+-ostomy surgically create an opening
+-otia ear condition
+-otomy cutting into
+-ous pertaining to
+-para to bear (offspring)
+-paresis weakness
+-partum childbirth
+-pathy disease
+-penia abnormal decrease, too few
+-pepsia digestion
+-pexy surgical fixation
+-phage to eat
+-phagia eat, swallow
+-phasia speech
+-phil attracted to
+-philia condition of being attracted to
+-philic pertaining to being attracted to
+-phobia fear
+-phonia voice
+-phoresis carrying
+-phoria condition to bear
+-phylaxis protection
+-plasia formation of cells
+-plasm formation
+-plastic pertaining to formation
+-plastin formation
+-plasty surgical repair
+-plegia paralysis
+-pnea breathing
+-poiesis formation
+-porosis porous
+-prandial pertaining to a meal
+-pressin to press down
+-ptosis drooping
+-ptysis spitting
+-rrhage excessive, abnormal flow
+-rrhagia abnormal flow condition
+-rrhagic pertaining to abnormal flow
+-rrhaphy to suture
+-rrhea discharge
+-rrhexis rupture
+-salpinx uterine tube
+-sclerosis hardening
+-scope instrument for viewing
+-scopic pertaining to visually examining
+-scopy process of visually examining
+-spasm involuntary muscle contraction
+-spermia condition of sperm
+-stasis standing still
+-stat to keep from moving
+-stenosis narrowing
+-taxia muscle coordination
+-tension pressure
+-therapy treatment
+-thorax chest
+-tic pertaining to
+-tocia labor, childbirth
+-tome instrument to cut
+-tonia tone
+-tonic pertaining to tone
+-toxic pertaining to poison
+-tripsy surgical crushing
+-trophic pertaining to development
+-trophy development
+-tropia turned condition
+-tropic pertaining to stimulating
+-tropin to stimulate
+-ule small
+-uria condition of the urine
