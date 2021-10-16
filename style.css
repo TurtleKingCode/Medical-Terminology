@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap');
+:root {
+  --color: #ae9cff;
+  --color2: #1f194c;
+  --color3: #b3b6d4;
+  --color4: #574a7b;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+}
+html { font-size: 62.5%; }
+body {
+  background-color: var(--color);
+}
+#container {
+  background: none;
+  display: flex;
+  justify-content: space-around;
+  bottom: 0;
+  position: absolute;
+  width: 100vw;
+}
+.card {
+  width: 55rem;
+  min-height: 20rem;
+  height: auto;
+  /*position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;*/
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 0 20px 40px rgba(38, 33, 61, 0.2);
+  font-size: 2rem;
+  font-family: 'Lato', sans-serif;
+  padding: 3rem 4rem 4rem 4rem;
+}
+
+.word {
+  font-size: 5rem;
+  margin: 0 0 5px 0;
+/*   background-color: red; */
+  width: auto;
+  height: auto;
+/*   color: #0a001a; */
+  color: var(--color2);
+  font-weight: 900;
+/*   border-bottom: 5px solid var(--color2); */
+}
+.word_part {
+  color: var(--color3);
+  font-size: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.definition {
+  color: var(--color4);
+  font-size: 2.5rem;
+  text-align: justify;
+/*   text-justify: inter-character; */
+}
+.examples {
+  color: var(--color4);
+  font-style: italic;
+  border-left: 5px solid #ae9cff;
+  padding-left: 2rem;
+  margin-top: 3rem;
+  font-size: 2rem;
+}
+.additional {
+  color: var(--color3);
+/*   font-style: italic; */
+  font-size: 2rem;
+  margin-top: 3rem;
+  background: none;
+  border: none;
+}
+details {
+  outline: none;
+	font-style: italic;
+}
+details > summary {
+  list-style: none;
+  display: flex;
+  cursor: pointer;
+/*   padding-left: 10px; */
+  
+}
+details > summary::-webkit-details-maker {
+  display: none;
+}
+details > summary::before {
+  font-family: 'Font Awesome 5 Free';
+  content: '\f105';
+  font-size: 2rem;
+  display: inline-flex;
+  margin: 0 2rem 0 0;
+  transition: transform 0.1s ease;
+  font-weight: 900;
+	font-style: normal;
+}
+details[open] > summary::before{
+  transform: rotate(90deg);
+}
+.content {
+  padding: 1.5rem 1.5rem 0 1.5rem;
+}
+table {
+	font-size: 1.5rem;
+}
+td {
+	/* border: 1px solid black; */
+	padding: 0.5rem;
+}
+td:nth-child(2) {
+	width: 100%;
+	/* border: 1px solid black; */
+}
+td:first-child {
+	font-weight: 900;
+}
